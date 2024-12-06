@@ -1,4 +1,5 @@
 import dotenv from 'dotenv' // It is a Nodejs module that loads environment variables from a .env file into the process.env object.
+import app from './app.js'
 
 import ConnectDatabase from './db/index.js'
 
